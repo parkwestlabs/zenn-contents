@@ -1,0 +1,22 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkwestlabs/zenn-contents.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/parkwestlabs/zenn-contents/issues"
+  },
+  "homepage": "https://github.com/parkwestlabs/zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "^0.5.4"
+  }
+}
