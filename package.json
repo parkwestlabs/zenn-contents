@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/parkwestlabs/zenn-contents#readme",
   "dependencies": {
-    "zenn-cli": "^0.5.4"
+    "zenn-cli": "^0.5.6"
   }
 }
